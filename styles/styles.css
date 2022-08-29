@@ -11,18 +11,3 @@ body{
   color: #FF5E19 !important;
 }
 
-.black-background {
-  background-color: black;
-}
-
-a:disabled,
-a[disabled] {
-  border: 1px solid #999999 !important;
-  background-color: #cccccc !important;
-  color: #666666 !important;
-}
-
-#total-field,
-#orange-color {
-  color: #FF5E19;
-}
