@@ -1,0 +1,28 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.header{
+  height: 100%;
+  background-color: black;
+}
+
+#header-title {
+  font-family: 'Berkshire Swash', cursive !important;
+  color: #FF5E19 !important;
+}
+
+.black-background {
+  background-color: black;
+}
+
+a:disabled,
+a[disabled] {
+  border: 1px solid #999999 !important;
+  background-color: #cccccc !important;
+  color: #666666 !important;
+}
+
+#total-field,
+#orange-color {
+  color: #FF5E19;
+}
